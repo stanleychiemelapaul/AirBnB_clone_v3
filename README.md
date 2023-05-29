@@ -156,5 +156,3 @@ No known bugs at this time.
 ## Authors
 Stanley Chiemela Paul - [Github](https://github.com/stanleychiemelapaul) / [Twitter](https://twitter.com/stanleycpaul)  
 Chisom Ikechukwu - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-
-Second part of Airbnb: Joann Vuong
